@@ -1,6 +1,6 @@
 {
   "name": "Boisemusicinforetrieval.GitHub.io",
-  "tagline": "Website for Boise Music Info Retrieval",
-  "body": "Website for Boise Music Info Retrieval\r\n",
+  "tagline": "Website for Boise Music Information Retrieval",
+  "body": "Music Information Retrieval (MIR) research at Boise State University is currently focused on the problem of Automatic Music Transcription (AMT). The goal is to allow a person with a personal mobile device such as a cell phone or tablet computer to capture a monophonic signal of a live music performance in a noisy environment and convert that signal to MIDI or standard western music notation files for each of the individual instruments.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
